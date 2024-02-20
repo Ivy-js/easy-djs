@@ -34,3 +34,4 @@ class Event {
 
 
 module.exports = Event;
+// All credits to Ivy.JS (ivy-js on GitHub)
