@@ -45,7 +45,8 @@ node src/main.js
 
 ## Step 4 : Alternative Launch options 
 
-> [!WARNING] Those alternative can be used on a VPS and on your own computer
+> [!WARNING] 
+> Those alternative can be used on a VPS and on your own computer
 
 
 ### Launch Alternative 1 : PM2
