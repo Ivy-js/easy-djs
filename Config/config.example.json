@@ -1,0 +1,7 @@
+{
+    "Token" : "PUT YOUR TOKEN", 
+    "Prefix" : "PUT YOUR PREFIX", 
+    "Owner" : "PUT YOUR ID", 
+    "LogChannel" : "PUT YOUR CHANNEL ID",
+    "GuildID" : "PUT YOUR GUILD ID"
+}
